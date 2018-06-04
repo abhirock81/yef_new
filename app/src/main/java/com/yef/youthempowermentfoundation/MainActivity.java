@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity
                                             new AuthUI.IdpConfig.FacebookBuilder().build()
                                             )
                                     )
-                                    //  .setTheme(R.style.)
+                                    .setTheme(R.style.LoginTheme)
                                     .setIsSmartLockEnabled(false)
                                     .build(),
                             RC_SIGN_IN);
