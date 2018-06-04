@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "856170175522",
+    "firebase_url": "https://youth-empowerment-foundation0.firebaseio.com",
+    "project_id": "youth-empowerment-foundation0",
+    "storage_bucket": "youth-empowerment-foundation0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856170175522:android:d7add6081a90a312",
+        "android_client_info": {
+          "package_name": "com.yef.youthempowermentfoundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856170175522-h3700jq42mi5ak2jm09ffuh4j2ouvcf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yef.youthempowermentfoundation",
+            "certificate_hash": "e807f282013cac65f3229bc43eafa5daaf272059"
+          }
+        },
+        {
+          "client_id": "856170175522-fslh64dghi34e57hosp783jji3ogklap.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "856170175522-fslh64dghi34e57hosp783jji3ogklap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5DZpYh1GlzlC7sodPKRv1cEdKKgb9_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856170175522-fslh64dghi34e57hosp783jji3ogklap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

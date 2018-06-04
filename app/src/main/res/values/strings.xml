@@ -1,0 +1,22 @@
+<resources>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_application_id">177041139673481</string>
+    <string name="fb_login_protocol_scheme">fb177041139673481</string>
+
+    <string name="app_name">Youth Empowerment Foundation</string>
+    <string name="Email">Email</string>
+    <string name="vol_reg">Volunteer  Registration</string>
+    <string name="terms">I agree with terms and conditions of YEF</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
